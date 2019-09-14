@@ -13,7 +13,7 @@ export default function App() {
         </View>
         <View style={styles.plantInfo}>
           <View style={styles.fileName}>
-            <Text>Name of file </Text>
+            <Text>Name of file Elsa </Text>
           </View>
           <View style={styles.className}>
             <Text>Class + disease </Text>
